@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          !!! Hello from Alfred !!!
+          !!! Hello from me !!!
         </p>
         <table width="100%" border="2px" height="500px">
           <tbody>
