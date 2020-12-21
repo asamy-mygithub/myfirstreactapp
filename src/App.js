@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          !!! Welcome to React JS !!!
+          Welcome to React JS
         </p>
         <table width="100%" border="2px" height="500px">
           <tbody>
